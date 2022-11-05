@@ -38,8 +38,6 @@ const start = async () => {
       console.log(e)
    }
 }
-console.log();
-
 
 
 start()
